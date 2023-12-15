@@ -1,0 +1,101 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,key,mode,uri,release_year
+Into It,Chase Atlantic,Chase Atlantic,2017-10-04,196767,83,0.0503,0.518,0.572,2.41e-05,0.129,-6.706,0.0416,130.053,0.291,4,10,0,spotify:track:4HwDCXsMBC7SUdp2WT4MZP,2017
+Bad Decisions (with BTS & Snoop Dogg),Bad Decisions (with BTS & Snoop Dogg),benny blanco,2022-08-05,172714,75,0.0185,0.762,0.861,0.0,0.264,-3.296,0.0955,120.048,0.955,4,0,1,spotify:track:0xzI1KAr0Yd9tv8jlIk3sn,2022
+Can I,It Was Good Until It Wasn't,Kehlani,2020-05-08,167810,69,0.419,0.574,0.791,0.0,0.0982,-3.752,0.11,119.537,0.612,4,1,1,spotify:track:0uDdI4fAXCuNhQbmxENdsO,2020
+Yet To Come,Proof,BTS,2022-06-10,193593,75,0.0432,0.559,0.885,0.0,0.333,-4.515,0.189,172.029,0.683,4,1,1,spotify:track:10SRMwb9EuVS1K9rYsBfHQ,2022
+Often,Beauty Behind The Madness,The Weeknd,2015-08-28,249040,83,0.222,0.572,0.631,0.0,0.135,-9.836,0.0476,134.078,0.0713,4,7,0,spotify:track:4PhsKqMdgMEUSstTDAmMpg,2015
+With you,"Our Blues, Pt. 4 (Original Television Soundtrack)",Jimin,2022-04-24,201905,75,0.639,0.532,0.426,0.0,0.134,-6.117,0.0288,149.898,0.137,3,3,1,spotify:track:2gzhQaCTeNgxpeB2TPllyY,2022
+Boyfriend,Boyfriend,Dove Cameron,2022-02-11,153000,83,0.232,0.345,0.612,0.0,0.194,-6.543,0.0608,179.773,0.232,3,7,0,spotify:track:59CfNbkERJ3NoTXDvoURjj,2022
+Dancing With Our Hands Tied,reputation,Taylor Swift,2017-11-10,211506,79,0.0604,0.624,0.691,1.1e-05,0.138,-6.686,0.196,160.024,0.284,4,0,0,spotify:track:7I7JbDv63ZJJsSi24DyJrz,2017
+Swim,Chase Atlantic,Chase Atlantic,2017-10-04,228786,84,0.27,0.666,0.542,0.0,0.0765,-6.429,0.0392,120.134,0.0771,4,8,1,spotify:track:3M0lSi5WW79CXQamgSBIjx,2017
+True Colors,Starboy,The Weeknd,2016-11-25,206013,67,0.286,0.624,0.424,0.0,0.173,-8.237,0.24,76.671,0.584,4,1,1,spotify:track:1oGdVdYjeQvojGKDddxLQQ,2016
+Left and Right (Feat. Jung Kook of BTS),Left and Right (Feat. Jung Kook of BTS),Charlie Puth,2022-06-24,154486,79,0.619,0.881,0.592,1.32e-05,0.0901,-4.898,0.0324,101.058,0.719,4,2,1,spotify:track:0mBP9X2gPCuapvpZ7TGDk3,2022
+SEXY NUKIM (feat. RM of BTS),SEXY NUKIM (feat. RM of BTS),Balming Tiger,2022-09-01,229937,66,0.00219,0.747,0.71,0.214,0.371,-5.729,0.116,93.995,0.426,4,1,1,spotify:track:1XkMxUilV0E3ChDERZJUEq,2022
+The Search,The Search,NF,2019-07-26,248053,77,0.598,0.789,0.789,0.0,0.099,-4.813,0.298,119.95,0.37,4,2,1,spotify:track:3oLe5ZILASG8vU5dxIMfLY,2019
+The Hills,Beauty Behind The Madness,The Weeknd,2015-08-28,242253,89,0.0671,0.585,0.564,0.0,0.135,-7.063,0.0515,113.003,0.137,4,0,0,spotify:track:7fBv7CLKzipRk6EC6TWHOB,2015
+Run BTS,Proof,BTS,2022-06-10,204939,81,0.0201,0.724,0.818,0.0,0.0358,-3.747,0.168,77.004,0.696,4,8,1,spotify:track:69xohKu8C1fsflYAiSNbwM,2022
+Stay Alive (Prod. SUGA of BTS),Stay Alive (Prod. SUGA of BTS),Jung Kook,2022-02-11,210928,77,0.299,0.512,0.76,0.0,0.103,-5.889,0.0682,130.096,0.495,4,2,0,spotify:track:7CAdT0HdiQNlt1C7xk2hep,2022
+Special,"Hi, It's Me",Ashnikko,2019-11-01,164000,46,0.0226,0.582,0.746,4.51e-06,0.127,-7.663,0.329,133.459,0.635,5,11,1,spotify:track:5rjk4gbK26b1MyQu0YxaDr,2019
+You Right,Planet Her,Doja Cat,2021-06-25,186173,83,0.0164,0.828,0.621,0.00233,0.0845,-6.414,0.0565,128.986,0.436,4,8,1,spotify:track:0k4d5YPDr1r7FX77VdqWez,2021
+Butter,"Butter (Hotter, Sweeter, Cooler)",BTS,2021-06-04,164441,73,0.00323,0.759,0.459,0.0,0.0906,-5.187,0.0948,109.997,0.695,4,8,1,spotify:track:1mWdTewIgB3gtBM3TOSFhB,2021
+she calls me daddy,she calls me daddy,KiNG MALA,2021-04-08,183569,61,0.031,0.796,0.426,0.00446,0.171,-7.994,0.0324,100.006,0.572,4,9,1,spotify:track:4nBsvvjN134KFVcvFMLWwK,2021
+double take,rapunzel,dhruv,2022-01-21,171743,84,0.845,0.656,0.436,0.0,0.221,-11.141,0.0744,109.239,0.196,4,8,1,spotify:track:0QzuaeCEEOV40Pn7IvKEny,2022
+Six Feet Under,Starboy,The Weeknd,2016-11-25,237573,71,0.129,0.772,0.504,0.0,0.125,-8.219,0.0761,140.035,0.244,4,6,0,spotify:track:4mU5iXHeLgbR94siF7p1sY,2016
+Don’t Blame Me,reputation,Taylor Swift,2017-11-10,236413,92,0.106,0.615,0.534,1.76e-05,0.0607,-6.719,0.0386,135.917,0.193,4,9,0,spotify:track:1R0a2iXumgCiFb7HEZ7gUE,2017
+Daisy,DEMIDEVIL,Ashnikko,2021-01-15,146523,73,0.235,0.834,0.663,0.0,0.372,-6.143,0.133,121.876,0.774,4,8,1,spotify:track:2g1KggY9PKvsoEAOaiz4xx,2021
+Angel Baby,Angel Baby,Troye Sivan,2021-09-09,220779,79,0.0145,0.559,0.559,0.0,0.138,-6.425,0.0358,72.498,0.338,4,11,1,spotify:track:2m6Ko3CY1qXNNja8AlugNc,2021
+Church,Part One,Chase Atlantic,2017-01-27,220000,72,0.0109,0.556,0.824,0.0,0.112,-4.539,0.0548,112.99,0.292,4,5,0,spotify:track:7bbYT48HWWIbL3YKmtMNzn,2017
+champagne problems,evermore,Taylor Swift,2020-12-11,244000,83,0.92,0.462,0.24,0.0,0.113,-12.077,0.0377,171.319,0.32,4,0,1,spotify:track:0sY6ZUTh4yoctD8VIXz339,2020
+Slumber Party (feat. Princess Nokia),DEMIDEVIL,Ashnikko,2021-01-15,178404,75,0.00151,0.964,0.398,3.95e-05,0.101,-8.981,0.0795,105.012,0.563,4,11,0,spotify:track:11ZulcYY4lowvcQm4oe3VJ,2021
+Reminder,Starboy,The Weeknd,2016-11-25,218880,89,0.142,0.706,0.505,0.0,0.164,-6.923,0.193,160.053,0.388,4,8,1,spotify:track:37F0uwRSrdzkBiuj0D5UHI,2016
+Slow Down,Paradise - EP,Chase Atlantic,2016-12-20,212093,47,0.0169,0.473,0.78,5.9e-06,0.291,-4.861,0.0358,129.972,0.261,4,10,1,spotify:track:2VyaGJJI8dOiv36F8vHZIL,2016
+Christmas Tree,"Our Beloved Summer (Original Television Soundtrack), Pt. 5",V,2021-12-24,209946,78,0.699,0.437,0.384,2.33e-05,0.121,-8.384,0.042,139.009,0.181,4,5,1,spotify:track:186NCtNk1tUYS7c2DxgJ7O,2021
+Under The Influence,Indigo (Extended),Chris Brown,2019-10-04,184613,88,0.0635,0.733,0.69,1.18e-06,0.105,-5.529,0.0427,116.992,0.31,4,9,0,spotify:track:5IgjP7X4th6nMNDh4akUHb,2019
+Born Singer,Proof,BTS,2022-06-10,238628,68,0.0354,0.602,0.841,0.0,0.235,-3.334,0.109,157.937,0.684,4,8,0,spotify:track:1IthE5GNiRzFN5CVaCa445,2022
+Snow On The Beach (feat. Lana Del Rey),Midnights,Taylor Swift,2022-10-21,256124,79,0.69,0.663,0.319,0.000993,0.117,-13.481,0.0375,109.957,0.193,4,9,1,spotify:track:1wtOxkiel43cVs0Yux5Q4h,2022
+Blinding Lights,After Hours,The Weeknd,2020-03-20,200040,92,0.00146,0.514,0.73,9.54e-05,0.0897,-5.934,0.0598,171.005,0.334,4,1,1,spotify:track:0VjIjW4GlUZAMYd2vXMi3b,2020
+Space,a liquid breakfast,AUDREY NUNA,2021-05-21,193400,45,0.915,0.455,0.216,0.00899,0.0949,-12.501,0.0696,78.912,0.118,4,9,0,spotify:track:0mvKoOMnjfGtgTEUQAHWMs,2021
+Singularity,Love Yourself 結 'Answer',BTS,2018-08-24,196998,63,0.56,0.775,0.272,0.00278,0.112,-9.126,0.091,103.991,0.198,3,1,0,spotify:track:2ApfJvLr7RbhJl6NOVhEu6,2018
+Hate The Other Side (with Marshmello & The Kid Laroi),Legends Never Die,Juice WRLD,2020-07-10,160212,73,0.291,0.701,0.65,0.0,0.112,-6.313,0.104,90.003,0.647,4,6,1,spotify:track:0ada5XsQGLPUVbmTCkAP49,2020
+I Feel It Coming,Starboy,The Weeknd,2016-11-25,269186,83,0.428,0.773,0.819,0.0,0.0679,-5.946,0.118,92.987,0.585,4,0,0,spotify:track:3dhjNA0jGA8vHBQ1VdD6vV,2016
+Play with Fire (feat. Yacht Money),Play with Fire (feat. Yacht Money),Sam Tinnesz,2017-07-07,180690,77,0.0162,0.573,0.539,1.16e-05,0.105,-6.091,0.0322,75.012,0.39,4,2,0,spotify:track:7vguMCv8uVuZLiQJ156u3Z,2017
+BTBT (feat. DeVita),BTBT (feat. DeVita),B.I,2022-05-13,219549,66,0.321,0.763,0.663,0.0,0.115,-6.928,0.183,109.979,0.496,4,9,0,spotify:track:0FOBJ5PbwOe5XBY9y0bnhi,2022
+WILD,Blue Neighbourhood (Deluxe),Troye Sivan,2015-12-09,227871,51,0.0235,0.581,0.725,0.0,0.304,-5.349,0.0592,89.989,0.394,4,0,0,spotify:track:0Ad6zJhaqKCwEccDAKz6sk,2015
+golden retriever boy,golden retriever boy,KiNG MALA,2021-10-28,186275,48,0.0886,0.847,0.447,0.000676,0.101,-7.579,0.0474,99.975,0.562,4,1,1,spotify:track:20M00steJbkD9bCIUCuHPI,2021
+So It Goes...,reputation,Taylor Swift,2017-11-10,227906,76,0.122,0.574,0.61,1.1e-06,0.13,-7.283,0.0732,74.957,0.374,4,2,1,spotify:track:5PxFv9yJEg9dxvbZggykro,2017
+Crazy Beautiful,Nightshade,Austin P. McKenzie,2019-12-13,199040,32,0.0913,0.634,0.527,0.0,0.132,-6.576,0.0465,79.992,0.246,4,11,1,spotify:track:7hQyWn9ja0znMtoZEY1A8v,2019
+FOOLS,Blue Neighbourhood (Deluxe),Troye Sivan,2015-12-09,220402,60,0.192,0.292,0.678,0.0,0.146,-5.595,0.0724,87.436,0.365,4,10,1,spotify:track:5lMgUPtlARalVIGxl0xE3J,2015
+Halloweenie,Halloweenie,Ashnikko,2018-10-26,176400,59,0.169,0.842,0.684,0.0,0.136,-5.457,0.101,99.993,0.588,4,8,1,spotify:track:4VnTyPn2rN7EOnam0ns5DZ,2018
+MORE,MORE,j-hope,2022-07-01,180022,70,0.00537,0.783,0.722,0.00209,0.105,-4.864,0.0357,97.031,0.306,4,2,1,spotify:track:4XKXphKH76W4zNpkgFS5o2,2022
+With You,With You,Mokita,2018-10-19,154650,67,0.3,0.648,0.607,0.0,0.163,-6.399,0.0577,154.901,0.356,4,11,1,spotify:track:5Lu0vv78RmKZeBPpP1N8za,2018
+Consume (feat. Goon Des Garcons),Chase Atlantic,Chase Atlantic,2017-10-04,267920,82,0.07,0.556,0.714,0.0,0.261,-5.322,0.158,146.113,0.434,4,9,0,spotify:track:0X2bh8NVQ8svDQIn2AdCbW,2017
+mercy,mercy,KiNG MALA,2021-07-22,177788,49,0.551,0.591,0.335,6.51e-06,0.126,-12.386,0.13,84.997,0.341,4,7,0,spotify:track:4PHZkpHmsig3EihQneGOMt,2021
+That That (prod.&feat. SUGA of BTS),PSY 9th,PSY,2022-04-29,174646,76,0.0299,0.905,0.962,0.0,0.0272,-3.197,0.0856,129.969,0.906,4,4,1,spotify:track:7GNRUsU3M4XNDDB9xle5Dz,2022
+Arson,Jack In The Box,j-hope,2022-07-15,159761,73,0.00813,0.938,0.798,7.03e-05,0.146,-3.998,0.103,99.992,0.265,4,1,1,spotify:track:2QWEMqQMJR1KDf6hDjJOs6,2022
+Bloom,Bloom,Troye Sivan,2018-08-31,222096,62,0.031,0.708,0.701,0.0,0.392,-5.196,0.0328,120.932,0.504,4,0,1,spotify:track:0oTyoTKEKMdF3rXcOLyEfN,2018
+Diet Mountain Dew,Born To Die - The Paradise Edition,Lana Del Rey,2012-01-01,222920,81,0.276,0.595,0.696,0.0,0.411,-5.921,0.0417,88.013,0.533,4,10,0,spotify:track:2vtmY2mSccRzKGjtcHSzI3,2012
+Animals,V (Asia Tour Edition),Maroon 5,2015-05-18,231013,73,0.000185,0.279,0.742,0.0,0.593,-6.46,0.0898,189.868,0.328,4,4,0,spotify:track:3h4T9Bg8OVSUYa6danHeH5,2015
+Alla Ba OUFF,Alla Ba OUFF,Omar Rudberg,2021-05-07,165857,40,0.0657,0.78,0.696,0.0,0.0568,-8.248,0.0553,139.869,0.632,4,8,0,spotify:track:6ckzhHO4drBlevsa7aU5MK,2021
+DARKSIDE,Wars In A Wonderland,Neoni,2021-08-20,168000,77,0.31,0.533,0.714,1.58e-06,0.0869,-6.472,0.0608,165.037,0.454,3,7,0,spotify:track:6xlOnm5MITIKtixzJW8R0j,2021
+Love Lies (with Normani),Love Lies (with Normani),Khalid,2018-02-14,201707,77,0.0956,0.708,0.648,0.0,0.134,-5.626,0.0449,143.955,0.338,4,6,1,spotify:track:45Egmo7icyopuzJN0oMEdk,2018
+TALK ME DOWN,Blue Neighbourhood (Deluxe),Troye Sivan,2015-12-09,237464,55,0.151,0.362,0.781,0.000197,0.125,-6.803,0.0741,173.688,0.354,4,6,1,spotify:track:1othhMi2WsiF9oLoisJjYW,2015
+My Universe,Music Of The Spheres,Coldplay,2021-10-15,226198,80,0.0114,0.573,0.711,0.0,0.328,-6.268,0.0406,105.006,0.47,4,1,0,spotify:track:46HNZY1i7O6jwTA7Slo2PI,2021
+Lucid Dreams,Goodbye & Good Riddance,Juice WRLD,2018-12-10,239835,86,0.349,0.511,0.566,0.0,0.34,-7.23,0.2,83.903,0.218,4,6,0,spotify:track:285pBltuF7vW8TeWk8hdRR,2018
+Halloweenie IV: Innards,Halloweenie IV: Innards,Ashnikko,2021-10-22,170646,63,0.0246,0.76,0.592,0.0,0.125,-6.379,0.177,136.045,0.678,4,1,1,spotify:track:2hwUHHqLSEue41V952MtD2,2021
+Let You Down,Perception,NF,2017-10-06,212120,83,0.312,0.662,0.714,0.0,0.179,-5.68,0.121,147.997,0.464,4,5,0,spotify:track:52okn5MNA47tk87PeZJLEL,2017
+For Youth,Proof,BTS,2022-06-10,264480,71,0.434,0.633,0.511,0.0,0.248,-5.665,0.0368,116.855,0.29,3,2,1,spotify:track:4JzCFEc3O2UEdjKzevvFH5,2022
+Fighting Demons,Legends Never Die,Juice WRLD,2020-07-10,200628,66,0.0813,0.707,0.67,0.0,0.098,-6.328,0.257,163.099,0.235,4,7,0,spotify:track:0440JCJyIAmINA8KcYgFb5,2020
+girls girls girls,girls girls girls,FLETCHER,2021-10-08,161247,62,0.658,0.649,0.478,0.0,0.131,-8.834,0.156,139.859,0.468,4,0,1,spotify:track:6eutgX6jfXAsjTXgQtCtYV,2021
+MONTERO (Call Me By Your Name),MONTERO,Lil Nas X,2021-09-17,137704,22,0.293,0.593,0.503,0.0,0.405,-6.725,0.22,178.781,0.71,4,8,0,spotify:track:1QBOvYq24rgyQnaO6HCAm6,2021
+CLOUDS,CLOUDS (THE MIXTAPE),NF,2021-03-26,243760,69,0.373,0.788,0.652,0.0,0.755,-3.931,0.405,128.108,0.812,4,1,1,spotify:track:1mvI5pGoh84IiFSbWxEkGH,2021
+Fast,Death Race For Love (Bonus Track Version),Juice WRLD,2019-03-08,208517,72,0.426,0.623,0.607,0.0,0.105,-5.937,0.0435,84.982,0.263,4,1,0,spotify:track:5WQrDB34o6M8V0jxNiX6RU,2019
+Exxus,Glass Animals,Glass Animals,2013-01-01,256041,48,0.469,0.625,0.428,0.0799,0.0892,-11.294,0.0411,149.908,0.289,4,0,0,spotify:track:3Gq1Ib3ycJQfzg0U76Fk3P,2013
+Strawberries & Cigarettes,Strawberries & Cigarettes,Troye Sivan,2018-03-16,201538,82,0.162,0.578,0.537,0.0,0.076,-8.676,0.0832,83.909,0.25,4,9,1,spotify:track:3afkJSKX0EAMsJXTZnDXXJ,2018
+moonchild,mono.,RM,2018-10-23,205833,66,0.0258,0.503,0.869,0.0,0.0659,-5.576,0.214,157.975,0.191,4,9,0,spotify:track:6BnciRM9jyEP9cEjvoN5eI,2018
+Righteous,Legends Never Die,Juice WRLD,2020-07-10,242180,74,0.0417,0.706,0.625,0.0,0.129,-7.426,0.0314,142.948,0.225,4,0,1,spotify:track:5dOxHHMOFAbG3VH23t0xNm,2020
+Rush Hour (Feat. j-hope of BTS),Rush Hour,Crush,2022-09-22,177302,70,0.157,0.738,0.714,0.0,0.31,-5.235,0.249,95.035,0.74,4,0,1,spotify:track:5aucVLKiumD89mxVCB4zvS,2022
+Yours,Jirisan (Original Television Soundtrack) Pt. 4,JIN,2021-11-07,264840,72,0.354,0.488,0.427,0.0,0.0797,-7.383,0.0382,72.035,0.157,4,6,1,spotify:track:66sBTYlkaiyBwf4fhbIHlZ,2021
+Maroon,Midnights,Taylor Swift,2022-10-21,218270,82,0.0573,0.637,0.398,1.03e-06,0.101,-8.294,0.0564,108.075,0.0374,4,7,1,spotify:track:3eX0NZfLtGzoLUxPNvRfqm,2022
+Lean Wit Me,Goodbye & Good Riddance,Juice WRLD,2018-12-10,175755,81,0.0414,0.665,0.651,0.0,0.0896,-5.515,0.156,163.935,0.237,4,1,1,spotify:track:3oDkdAySo1VQQG0ptV7uwa,2018
+Dynamite,Proof,BTS,2022-06-10,199293,59,0.0112,0.746,0.765,0.0,0.0933,-4.41,0.0993,114.044,0.737,4,6,0,spotify:track:1hIuSG6xV4RDgD8bDVKP7N,2022
+Blue Side,Blue Side,j-hope,2021-03-02,198600,61,0.000963,0.469,0.706,0.449,0.35,-7.441,0.0368,161.002,0.28,4,0,1,spotify:track:1nwdfbj4UyRMpa9L98a4Yi,2021
+Thot Shit,Thot Shit,Megan Thee Stallion,2021-06-11,184634,69,0.0133,0.95,0.693,0.0,0.173,-3.424,0.0898,130.02,0.891,4,9,1,spotify:track:5zNW5ARjYhJQJz1AChP33n,2021
+cult leader,honey catching season,KiNG MALA,2022-10-14,163462,58,0.163,0.692,0.408,0.000576,0.101,-9.091,0.0544,131.959,0.226,4,0,0,spotify:track:102xUWbf0uuklX8qThPeHK,2022
+girls,girls,girl in red,2018-06-08,198400,75,0.23,0.518,0.447,0.0426,0.171,-14.461,0.0338,150.059,0.792,4,5,1,spotify:track:04OSnqlwlBJMvidYccraVz,2018
+Past Life (with Selena Gomez),Past Life (with Selena Gomez),Trevor Daniel,2020-06-26,186480,64,0.102,0.575,0.543,0.0,0.176,-5.062,0.0529,159.905,0.283,4,3,1,spotify:track:7MN8RYSofZsFROBlEOAzXq,2020
+Dark Times,Beauty Behind The Madness,The Weeknd,2015-08-28,260640,65,0.116,0.501,0.403,1.03e-05,0.124,-9.611,0.0747,132.608,0.27,3,7,1,spotify:track:6J7PIkhtHwmFjPLq0SyuPj,2015
+Deal With It (feat. Kelis),DEMIDEVIL,Ashnikko,2021-01-15,191149,64,0.141,0.712,0.689,0.0,0.657,-5.286,0.128,82.98,0.49,4,1,0,spotify:track:1S85LGnDPKKOkfuFaK6vFu,2021
+TALES OF DOMINICA,MONTERO,Lil Nas X,2021-09-17,146005,64,0.629,0.742,0.734,0.00314,0.0834,-5.582,0.0407,114.952,0.541,4,8,0,spotify:track:5S4PZ7AuYlYiVIVik3wHUf,2021
+Robbery,Death Race For Love (Bonus Track Version),Juice WRLD,2019-03-08,240050,82,0.328,0.623,0.692,0.0,0.153,-5.122,0.0504,79.899,0.566,4,2,1,spotify:track:6iaSML1PIYq936g62BDtBq,2019
+Ordinary Life,Starboy,The Weeknd,2016-11-25,221920,66,0.0275,0.537,0.587,0.0,0.0961,-7.486,0.0771,149.748,0.365,4,7,0,spotify:track:15k2nBQJ0teDmPZHrOXL2N,2016
+"break up with your girlfriend, i'm bored","thank u, next",Ariana Grande,2019-02-08,190440,78,0.0421,0.726,0.554,0.0,0.106,-5.29,0.0917,169.999,0.335,4,5,0,spotify:track:4kV4N9D1iKVxx1KLvtTpjS,2019
+Dark Paradise,Born To Die - The Paradise Edition,Lana Del Rey,2012-01-01,243187,74,0.0953,0.6,0.653,0.0,0.122,-8.309,0.0594,119.994,0.43,4,1,0,spotify:track:6qqdFWe7C4LsBjWbXQdsHA,2012
+Intentions (feat. Quavo),Changes,Justin Bieber,2020-02-14,212866,77,0.3,0.806,0.546,0.0,0.102,-6.637,0.0575,147.986,0.874,4,9,1,spotify:track:4umIPjkehX1r7uhmGvXiSV,2020
+Arms Around You (feat. Maluma & Swae Lee),Arms Around You (feat. Maluma & Swae Lee),XXXTENTACION,2018-10-25,198902,71,0.0302,0.703,0.723,2.06e-06,0.126,-5.45,0.0412,104.969,0.288,4,9,0,spotify:track:2LskIZrCeLxRvCiGP8gxlh,2018
+Save Your Tears (with Ariana Grande) (Remix),Save Your Tears (Remix),The Weeknd,2021-04-23,191013,83,0.0215,0.65,0.825,2.44e-05,0.0936,-4.645,0.0325,118.091,0.593,4,0,1,spotify:track:37BZB0z9T8Xu7U3e65qxFy,2021
+YOUTH,Blue Neighbourhood (Deluxe),Troye Sivan,2015-12-09,185194,75,0.0625,0.628,0.737,0.0,0.0777,-4.437,0.041,91.507,0.592,4,7,1,spotify:track:0nhBKubnVz9yFNNprBniWz,2015
+Can't Die,Legends Never Die,Juice WRLD,2020-07-10,182922,66,0.0222,0.652,0.671,0.0,0.107,-5.89,0.0756,84.008,0.274,4,2,1,spotify:track:4PPLJAEYBSOcnzr9TZoqf9,2020
+damn Right,a liquid breakfast,AUDREY NUNA,2021-05-21,164613,54,0.0988,0.852,0.549,1.35e-06,0.122,-7.31,0.317,162.027,0.666,4,10,0,spotify:track:01ukVTKa6DhejzNulpoG2t,2021
+telepatía,Sin Miedo (del Amor y Otros Demonios) ∞,Kali Uchis,2020-12-04,160191,85,0.112,0.653,0.524,0.0,0.203,-9.016,0.0502,83.97,0.553,4,11,0,spotify:track:6tDDoYIxWvMLTdKpjFkc1B,2020
+Boy With Luv (Feat. Halsey),MAP OF THE SOUL : 7,BTS,2020-02-21,229773,66,0.0933,0.645,0.862,0.0,0.193,-4.761,0.0845,119.947,0.803,4,11,0,spotify:track:7lrqvdivAYRGEiO8JFP31G,2020
+Open (Passionate),It Was Good Until It Wasn't,Kehlani,2020-05-08,245674,53,0.145,0.491,0.464,1.57e-06,0.107,-7.188,0.0872,124.352,0.183,4,5,0,spotify:track:4J4yA7A68PmgSbjAn425eY,2020
